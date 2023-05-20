@@ -18,7 +18,10 @@ SIG - A0
 GND - GND
 # Programming
 First create a thing in the Arduino Cloud (make sure you are logged in). Then create 3 variables.
+![Alt text](Variable.png)
 And then create a device for the Wemos D1 R1 and make sure you have copied the device id and secret key.
-After that configure your network then go to the sketch tab and copy the code from this repo in the ```Code```
+After that configure your network. 
+![Alt text](Network.png)
+Then go to the sketch tab and copy the code from this repo in the ```Code```
 folder and paste it. Then there will be a prompt to install the arduino create agent if you haven't installed 
 it. After installing it select your board and port then upload the code.
