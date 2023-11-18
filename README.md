@@ -7,15 +7,15 @@ Monitor your plant in the Arduino Cloud!
 4. Wires
 # Circuit connections
 BMP280 to Wemos D1 R1
-SCL - SCL
-SDA - SDA
-VCC - 3.3V
-GND - GND
+1. SCL - SCL
+2. SDA - SDA
+3. VCC - 3.3V
+4. GND - GND
   
 Soil Moisture Sensor to Wemos D1 R1
-VCC - 5V
-SIG - A0
-GND - GND
+1. VCC - 5V
+2. SIG - A0
+3. GND - GND
 # Programming
 First create a thing in the Arduino Cloud (make sure you are logged in). Then create 3 variables.
 ![Alt text](Variable.png)
